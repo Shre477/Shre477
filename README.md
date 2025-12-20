@@ -1,5 +1,4 @@
-Hi 👋, I'm SHREYA
-A passionate frontend developer from India
+
 
 
 <!--
