@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi 👋, I'm SHREYA
+A passionate frontend developer from India
+
 
 <!--
 **Shre477/Shre477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
