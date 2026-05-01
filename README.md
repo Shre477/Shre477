@@ -33,7 +33,7 @@ const shreya = {
   lookingFor:  "Full Stack / SWE roles at Product-Based Companies (2026)",
   funFact:     "Reduced API calls by 60% with React Query 😎"
 };
-` ` `
+```
 
 ---
 
@@ -217,5 +217,3 @@ const shreya = {
 *"First, solve the problem. Then, write the code."*
 
 </div>
-```
-
